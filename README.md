@@ -1,3 +1,5 @@
+NOTE! The folder "SomeScripts" shoudn't be downloaded.
+
 To see your server in the Chrome browser, follow these steps:
 
 Run the command "npm start"
