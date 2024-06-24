@@ -1,4 +1,4 @@
-NOTE! The folder "SomeScripts" shoudn't be downloaded.
+NOTE! Please, don't download the folder "SomeScripts". It is only for showing. The rest folders and files are for starting project.
 
 To see your server in the Chrome browser, follow these steps:
 
